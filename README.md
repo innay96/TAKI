@@ -8,7 +8,7 @@ In example:
 
 ![](https://user-images.githubusercontent.com/33619352/58573803-2a91d500-8247-11e9-8d45-9fe533da0a05.png)
 
-Game play:
+### Game play:
 
 The program will give each player their turn by order, there is no significance for who the first player is.
 
