@@ -1,4 +1,4 @@
-#Exercise 1 in advanced cpp course
+# Exercise 1 in advanced cpp course
 
 First we set the number of players and the number of cards for each one by the user input.
 
